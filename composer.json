@@ -1,0 +1,10 @@
+{
+    "name": "interview/php-dev-test",
+    "description": "PHP developer test task",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
